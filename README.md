@@ -18,9 +18,11 @@ Or install it yourself as:
 
     $ gem install slack_cli
 
-## Usage
+## Usage (not yet implemented)
 
-TBD
+If it is your first time running the Slack CLI, run `slack auth` to authorize the application to access your Slack account. This will open your browser and prompt you to log in to Slack.
+
+After you've authorized the application, use `slack [channel name]` to open up communication on a particular channel.
 
 ## Development
 
